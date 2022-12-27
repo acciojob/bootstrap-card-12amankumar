@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-left: 80px;!important
+}
+#btn{
+    background: rgb(119, 119, 187);
+    border-radius: 5px;
+    border: none;
+}
+.header-section{
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 0px 20px;
+}
+.aman{
+    border: 1px solid black;
+}
